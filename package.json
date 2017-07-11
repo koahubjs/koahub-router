@@ -1,0 +1,29 @@
+{
+  "name": "koahub-router",
+  "version": "0.0.1",
+  "description": "the complete solution for node.js command-line programs with router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "keywords": [
+    "commander",
+    "command",
+    "terminal",
+    "parser",
+    "router",
+    "cli"
+  ],
+  "author": "786699892@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koahubjs/koahub-router.git"
+  },
+  "dependencies": {
+    "path-to-regexp": "^1.7.0"
+  }
+}
